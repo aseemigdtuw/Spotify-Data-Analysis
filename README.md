@@ -19,5 +19,5 @@ This project performs exploratory data analysis on a Spotify dataset to uncover 
 - Energy has some influence on popularity but is not the only factor
 
 ## 📁 Files
-- spotify_analysis.ipynb
-- spotify.csv 
+- spotify.ipynb
+- spotify-tracks-dataset.csv 
